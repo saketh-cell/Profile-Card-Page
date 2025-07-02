@@ -20,7 +20,7 @@ const ProfileInfo = () => {
         <h2 className="role">MERN Full Stack Developer</h2>
         <p className="jobInfo">Open to Full-time & Internship</p>
 
-        <h3 className="name">Jeffrey Abrams, 51</h3>
+        <h3 className="name">Saketh Ram Pusluru</h3>
         <p className="location">📍 Hyderabad, Telangana</p>
         <p className="bio">
           Enthusiastic Full Stack Developer skilled in the MERN stack with
